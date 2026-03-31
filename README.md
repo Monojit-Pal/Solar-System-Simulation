@@ -16,11 +16,11 @@
 
 ---
 
-## 🎬 Demo
+## 🎬 Screeshot
 
 <div align="center">
 
-https://github.com/Monojit-Pal/Solar-System-Simulation/assets/solar-system-simulation-demo.mp4
+https://github.com/Monojit-Pal/Solar-System-Simulation/assets/solar-system-simulation-screenshot.png
 
 > *All 8 planets orbit in real time — Mercury sprinting, Neptune drifting.*
 
@@ -216,14 +216,6 @@ A window titled **"Solar System Simulation"** will open and the animation will s
 
 ---
 
-### 🪟 One-liner (compile + run)
-
-```bash
-javac SolarSystem.java && java SolarSystem
-```
-
----
-
 ## 📁 Repository Structure
 
 ```
@@ -285,5 +277,3 @@ It takes one click and means a lot. It also helps others discover the project.
 
 This project is licensed under the **MIT License** — see the [LICENSE](LICENSE) file for details.  
 Free to use, modify, and share. Attribution appreciated. 🙏
-
----
