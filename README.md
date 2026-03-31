@@ -1,9 +1,3 @@
-<div align="center">
-
-<img src="assets/solar-system-simulation-screenshoot.png" alt="Solar System Simulation Screenshot" width="720" style="border-radius: 12px;" />
-
-<br/>
-
 # 🌌 Solar System Simulation
 
 > *A real-time animated solar system built entirely in Java Swing — no game engines, no external libraries, just pure Java.*
@@ -293,9 +287,3 @@ This project is licensed under the **MIT License** — see the [LICENSE](LICENSE
 Free to use, modify, and share. Attribution appreciated. 🙏
 
 ---
-
-<div align="center">
-
-Made with ☕ and a love for the cosmos by **[Monojit-Pal](https://github.com/Monojit-Pal)**
-
-</div>
