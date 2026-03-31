@@ -16,18 +16,6 @@
 
 ---
 
-## 🎬 Screeshot
-
-<div align="center">
-
-https://github.com/Monojit-Pal/Solar-System-Simulation/assets/solar-system-simulation-screenshot.png
-
-> *All 8 planets orbit in real time — Mercury sprinting, Neptune drifting.*
-
-</div>
-
----
-
 ## ✨ Features
 
 - 🌞 **Radiant Sun** — rendered with a warm radial gradient (yellow-orange glow)
